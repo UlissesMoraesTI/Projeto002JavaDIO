@@ -1,0 +1,13 @@
+package lanchonete;
+
+public class Atendente {
+	
+	public void pegarLancheCozinha() {
+		System.out.println("PEGANDO LANCHE");
+	}
+	
+	public void receberPagamento() {
+		System.out.println("RECEBENDO PAGAMENTO");
+	}
+
+}

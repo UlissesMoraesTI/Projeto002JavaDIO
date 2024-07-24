@@ -1,0 +1,12 @@
+package lanchonete;
+
+public class Almoxarife {
+	
+	public void controlarEntrada() {
+		System.out.println("CONTROLANDO ENTRADA");
+	}
+	
+	public void controlarSaida() {
+		System.out.println("CONTROLANDO SAIDA");
+	}
+}

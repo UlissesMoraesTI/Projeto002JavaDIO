@@ -1,0 +1,25 @@
+package escola;
+
+public class Pessoa {
+	private String nome;
+	public String getNome() {
+		return nome;
+		return cpf;
+		return endereco;
+	}
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	public String getCpf() {
+		return cpf;
+	}
+	public void setCpf(String cpf) {
+		this.cpf = cpf;
+	}
+	public String getEndereco() {
+		return endereco;
+	}
+	public void setEndereco(String endereco) {
+		this.endereco = endereco;
+	}
+}

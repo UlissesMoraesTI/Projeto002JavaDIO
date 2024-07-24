@@ -1,0 +1,9 @@
+package lanchonete;
+
+public class Almoxarife {
+	
+	public void adicionarLancheNoBalcao() {
+		System.out.println("ADICIONADO LANCHE NATUAL");
+	}
+
+}

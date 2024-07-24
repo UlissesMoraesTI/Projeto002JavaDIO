@@ -1,0 +1,13 @@
+package lanchonete;
+
+public class Cliente {
+	
+	public void escolherLanche() {
+		System.out.println("ESCOLHENDO O LANCHE");
+	}
+	
+	public void escolherSuco() {
+		System.out.println("ESCOLHENDO O SUCO");
+	}
+
+}

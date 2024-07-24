@@ -1,0 +1,20 @@
+package lanchonete.atendimento.cozinha;
+
+public class Cozinheiro {
+	
+	public void adicionarLancheNoBalcao() {
+		System.out.println("ADICIONADO LANCHE NATURAL");
+	}
+	
+	public void adicionarSucoNoBalcao() {
+		System.out.println("ADICIONADO SUCO DE LARANJA NATURAL");
+	}
+	
+	public void pedirParaTrocarGas(Almoxarife meuAmigo) {
+		meuAmigo.trocarGas();
+	}
+	
+	public void pedirIngredientes(Almoxarife almoxarife) {
+		almoxarife.entregarIngredientes();
+	}
+}
